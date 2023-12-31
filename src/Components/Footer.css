@@ -1,0 +1,17 @@
+.linkstyle{
+    color: rgb(133, 133, 133);
+}
+
+.istyle:hover i{
+    color: rgb(193, 191, 191);
+    cursor: pointer;
+}
+
+.istyle:hover h5{
+    color: rgb(193, 191, 191);
+    cursor: pointer;
+}
+
+.footer{
+    background-color: black;
+}
